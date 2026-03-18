@@ -53,7 +53,7 @@ from design and coding to live deployment with a custom domain.
 ---
 
 ## Screenshots
-
+![Goodnuts Dryfruits Website](Screenshot.png)
 
 ---
 
