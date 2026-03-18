@@ -54,7 +54,6 @@ from design and coding to live deployment with a custom domain.
 
 ## Screenshots
 
-> Add a screenshot of your website here
 
 ---
 
